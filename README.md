@@ -1,4 +1,4 @@
-<h1 align="center">LineTween Coding Challenge</h1>
+<h1 align="center">LineTweet Coding Challenge</h1>
 
 #### <p align="center">A task to develop a simple Express.js API that processes appointment data and  transforms it according to a set of predefined rules. 
 </p>
